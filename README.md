@@ -1,6 +1,8 @@
 # charity-funding-predictor
 Using Alphabet Soup donations data to predict whether recipients will be successful.
 
+## Report
+
 ### Overview
 The purpose of this project is to analyze past data from Alphabet Soup’s donation history in order to predict the value of future predictions. More specifically, we have data such as asking amount, industry or sector affiliation, organization type, and ask amount. The data set includes whether or not the organization made successful use of the donation or not. The method utilized to attempt to solve this problem was preprocessing of data and the creation of a neural network with a few versions featuring tweaks to hyperparameters.
 
