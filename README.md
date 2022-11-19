@@ -7,21 +7,21 @@ The purpose of this project is to analyze past data from Alphabet Soup’s donat
 ### Results
 
 #### Data Preprocessing
-Target Variable
-Whether the Organization was Successful
-Feature Variables
-Application Type
-Affiliation
-Classification
-Use Case
-Organization
-Status
-Income Amount
-Special Considerations
-Ask Amount
-Removed Variables
-Name
-EIN
+- Target Variable
+  - Whether the Organization was Successful
+- Feature Variables
+  - Application Type
+  - Affiliation
+  - Classification
+  - Use Case
+  - Organization
+  - Status
+  - Income Amount
+  - Special Considerations
+  - Ask Amount
+- Removed Variables
+  - Name
+  - EIN
 
 #### Model Details
 The original neural network model used two hidden layers with 16 neurons each. The ReLU activation function was used for the hidden layers and the sigmoid function was used for the output layer. All parameters were selected as relatively safe and proven specifications. 
